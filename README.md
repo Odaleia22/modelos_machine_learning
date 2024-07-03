@@ -1,1 +1,4 @@
 # modelos_machine_learning
+
+Compartilho um projeto no qual desenvolvi um modelo de machine learning com regressão linear, a partir do qual foi possível correlacionar os valores de imóveis localizados nos Estados Unidos e as suas características, para que Agentes imobiliários e avaliadores possam usar o modelo para fornecer avaliações rápidas e precisas sem a necessidade de inspeções detalhadas. 
+Em seguida, desenvolvi um segundo modelo, utilizando regressão logística, que visa a ajudar no diagnóstico de cânceres, classificando-os como benignos ou malignos. Ao final, foi possível compreender as métricas de performance de modelos de Machine Learning, que são: acurácia, precisão, recall e f1-score.  Tais métricas permitem avaliar o quão próximas as previsões estão da realidade, permitindo maior assertividade tanto em diagnósticos de doenças quanto em outras situações, como detecção de fraudes bancárias.
